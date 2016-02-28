@@ -1,0 +1,31 @@
+_repo: Die-Leute-von-Seldwyla-Band-1_6696
+creator:
+  author:
+    agent_name: Keller, Gottfried
+    alias: Keller, Gotfryd
+    birthdate: 1819
+    deathdate: 1890
+    gutenberg_agent_id: '2159'
+    url: http://www.gutenberg.org/2009/agents/2159
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gottfried_Keller
+    - http://de.wikipedia.org/wiki/Gottfried_Keller
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6696'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Germany -- Social life and customs -- Fiction'
+- !lcc 'PT'
+tableOfContents: 'Pankraz der Schmoller -- Romeo und Julia auf dem Dorfe -- Frau Regel
+  Amrain und ihr Jüngster -- Die drei gerechten Kammacher -- Spiegel das Kätzchen:
+  ein Märchen'
+title: Die Leute von Seldwyla — Band 1
+url: http://www.gutenberg.org/ebooks/6696
