@@ -1,4 +1,8 @@
 _repo: Die-Leute-von-Seldwyla-Band-1_6696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Keller, Gottfried
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gottfried_Keller
     - http://de.wikipedia.org/wiki/Gottfried_Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6696#Die-Leute-von-Seldwyla-Band-1
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
